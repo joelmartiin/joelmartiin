@@ -1,7 +1,6 @@
 ## Joel Martin Otero
 
 ## Sobre mi
-bla bla bla
 
 ## Tecnologies
 html

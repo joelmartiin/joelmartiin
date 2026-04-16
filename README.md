@@ -3,7 +3,7 @@
 ## Sobre mi
 
 ## Tecnologies
-html \n
+html
 css
 java
 javascript

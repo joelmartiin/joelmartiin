@@ -1,4 +1,16 @@
-## Hi there 👋
+## Joel Martin Otero
+
+## Sobre mi
+bla bla bla
+
+## Tecnologies
+html
+css
+java
+javascript
+sql
+
+## Projectes
 
 <!--
 **joelmartiin/joelmartiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

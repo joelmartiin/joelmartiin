@@ -3,11 +3,6 @@
 ## Sobre mi
 
 ## Tecnologies
-html
-css
-java
-javascript
-sql
 
 ## Projectes
 

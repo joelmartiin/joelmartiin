@@ -1,7 +1,7 @@
 ## Joel Martin Otero
 
 ## Sobre mi
-Soy un estudiante de 18 años del grado superior de desarrollo de páginas web con ganas de conseguir experiencia laboral para continuar creciendo en este ámbito y con ganas de aprender más cosas del mundo de la programación.
+Soy un estudiante de 19 años con ganas de aprender cosas del mundo de la programación y seguir creciendo profesionalmente.
 ## Tecnologies
 
 ## Projectes

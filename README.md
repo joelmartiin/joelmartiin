@@ -12,7 +12,7 @@ Soy un estudiante de 19 años con ganas de aprender cosas del mundo de la progra
 ## Projectes
 
 ## Contactar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joelmartiin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/joelmartiin](https://www.linkedin.com/in/joel-mart%C3%ADn-otero-599833389/))
 <!--
 **joelmartiin/joelmartiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

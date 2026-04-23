@@ -5,7 +5,7 @@ Soy un estudiante de 19 años con ganas de aprender cosas del mundo de la progra
 ## Tecnologies
 
 ## Projectes
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!--
 **joelmartiin/joelmartiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

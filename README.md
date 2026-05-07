@@ -1,7 +1,7 @@
 ## Joel Martin Otero
 
 Soy un estudiante de 19 años del Grado Superior de Desarrollo de Aplicaciones Web, con gran motivación por incorporarme al mundo laboral y seguir desarrollando mis habilidades en el ámbito de la programación y el desarrollo web. Me considero una persona con interés constante por aprender nuevas tecnologías y mejorar mis conocimientos tanto en frontend como en backend.
-## Tecnologies
+## Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)\

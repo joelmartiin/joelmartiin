@@ -10,7 +10,8 @@ Soy un estudiante de 19 años del Grado Superior de Desarrollo de Aplicaciones W
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Contactar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-martín-otero-599833389)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-martín-otero-599833389)\
+[![Email](https://img.shields.io/badge/Email-joelmartinotero%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelmartinotero@gmail.com)
 <!--
 **joelmartiin/joelmartiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
